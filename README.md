@@ -24,6 +24,8 @@ Here’s the first selection:
 14. [Agent Playgrounds](#14-agent-playgrounds)
 15. [Weird & Wonderful](#15-weird--wonderful)
 16. [Under-the-Radar Agentic Tools](#16-under-the-radar-agentic-tools)
+17. [Prompt Marketplaces & Libraries](#17-prompt-marketplaces--libraries)
+18. [Community-Sourced Agent Frameworks](#18-community-sourced-agent-frameworks)
 
 ---
 
@@ -271,9 +273,30 @@ Sample output: "Average sales: $532; peak in July."
 
 ---
 
+## 17. Prompt Marketplaces & Libraries
+
+- [FlowGPT](https://flowgpt.com)
+  Crowdsourced prompts rated and refined by the community.
+
+- [PromptBase](https://promptbase.com)
+  Buy and sell prompts; browse by model or use case.
+
+---
+
+## 18. Community-Sourced Agent Frameworks
+
+- [SuperAGI](https://superagi.com)
+  Open-source framework for building and deploying autonomous agents.
+
+- [OpenHands](https://github.com/AllHandsAI/OpenHands)
+  Operates your computer via natural language with a safety review loop.
+
+---
+
 ## Delta Log
 
 2025-09-04 — Added: 50 tools; Verified: none; Removed: none; Notable combo: none
 2025-09-04 — Added: 2 tools; Verified: aider, open-interpreter; Removed: none; Notable combo: none
 2025-09-04 — Added: 4 tools; Verified: none; Removed: none; Notable combo: none
+2025-09-04 — Added: 4 tools, 2 categories; Verified: none; Removed: none; Notable combo: none
 
