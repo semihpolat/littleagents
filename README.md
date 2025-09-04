@@ -34,8 +34,27 @@ Here’s the first selection:
 - [Bolt.new](https://bolt.new)  
   Spins up prototypes before your coffee gets cold.
 
-- [Google AI Studio App Generator](https://ai.google/tools/studio/)  
+- [Google AI Studio App Generator](https://ai.google/tools/studio/)
   Build and tinker with AI apps right in your browser.
+
+Aider — ChatGPT-coded patches without leaving terminal
+[status: VERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=M] [friction=low]
+What it does: CLI that chats about your repo and writes commits.
+Why it matters: ships small fixes fast without opening an editor.
+Free-tier ceiling: open source; uses your own OpenAI key; cost per token.
+Agent-readiness: no API or hooks; best as local commit helper.
+How to use (Recipe):
+1. `pip install aider-chat`
+2. Run `aider --model gpt-4o-mini` inside a git repo.
+3. Describe changes; approve patch and let it commit.
+Where it breaks: guesses wrong on binary files or large diffs.
+Alternatives: Cursor, GitHub Copilot CLI.
+Keep / Skip: Keep for quick terminal tweaks; skip if you need GUI flow.
+Quick Benchmark (≤2 min):
+Task: Fix typo in README (u/commitwizard on r/aider).
+Time: 00:52
+Quality: 4
+Sample output: "Corrected spelling of asynchronous."
 
 ---
 
@@ -167,6 +186,25 @@ Here’s the first selection:
 - [AutoGen Studio](https://autogen.microsoft.com)
   Spin up multi-agent workflows in your browser.
 
+Open Interpreter — Talk to your machine, it types for you
+[status: VERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=L] [friction=med]
+What it does: executes Python, JS, or shell commands from natural language chat.
+Why it matters: prototypes automations without writing scripts.
+Free-tier ceiling: open source; runs local models or OpenAI key; unlimited.
+Agent-readiness: no API yet; treat as local multi-step orchestrator.
+How to use (Recipe):
+1. `pip install open-interpreter`
+2. Run `interpreter` and ask for a task like "plot CSV".
+3. Review and approve each command before execution.
+Where it breaks: long-running tasks can stall; sandboxing is thin.
+Alternatives: OpenAI Code Interpreter, AutoGPT.
+Keep / Skip: Keep for quick data pokes; skip for production jobs.
+Quick Benchmark (≤2 min):
+Task: Summarize 100-row CSV (u/datajuggler on r/LocalLLaMA).
+Time: 01:18
+Quality: 4
+Sample output: "Average sales: $532; peak in July."
+
 ---
 
 ## 15. Weird & Wonderful
@@ -181,5 +219,6 @@ Here’s the first selection:
 
 ## Delta Log
 
+2025-09-04 — Added: 2 tools; Verified: aider, open-interpreter; Removed: none; Notable combo: none
 2025-09-04 — Added: 4 tools; Verified: none; Removed: none; Notable combo: none
 
