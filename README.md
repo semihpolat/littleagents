@@ -3,8 +3,26 @@
 
 # 300 Free (Maybe Not) AI Agent Tools
 
-In this post, I’ve compiled different categories of free (or partly free) AI tools.  
+In this post, I’ve compiled different categories of free (or partly free) AI tools.
 Here’s the first selection:
+
+## Table of Contents
+
+1. [Coding Sidekicks](#1-coding-sidekicks)
+2. [Zero-Budget Biz Helpers](#2-zero-budget-biz-helpers)
+3. [Free LLM Hangouts](#3-free-llm-hangouts)
+4. [Last-Minute Deadline Lifesavers](#4-last-minute-deadline-lifesavers)
+5. [Design Help for the Talentless](#5-design-help-for-the-talentless)
+6. [Bedroom Beat Machines](#6-bedroom-beat-machines)
+7. [Couch-Friendly Video Magic](#7-couch-friendly-video-magic)
+8. [Automation Gremlins](#8-automation-gremlins)
+9. [SEO Spells & Hype Tricks](#9-seo-spells--hype-tricks)
+10. [Chatbots That Never Ghost](#10-chatbots-that-never-ghost)
+11. [Study Buddies That Don't Judge](#11-study-buddies-that-dont-judge)
+12. [Numbers Whisperers](#12-numbers-whisperers)
+13. [Mind & Body Sidekicks](#13-mind--body-sidekicks)
+14. [Agent Playgrounds](#14-agent-playgrounds)
+15. [Weird & Wonderful](#15-weird--wonderful)
 
 ---
 
@@ -136,7 +154,32 @@ Here’s the first selection:
 - [Wysa](https://www.wysa.io)  
   Chat about your day with a friendly therapy bot.
 
-- [Skinive](https://skinive.com)  
+- [Skinive](https://skinive.com)
   Snap a pic, get a quick skin health check.
 
 ---
+
+## 14. Agent Playgrounds
+
+- [LangFlow](https://langflow.org)
+  Drag-and-drop chains for LLM tinkering.
+
+- [AutoGen Studio](https://autogen.microsoft.com)
+  Spin up multi-agent workflows in your browser.
+
+---
+
+## 15. Weird & Wonderful
+
+- [Tavily](https://www.tavily.com)
+  API that lets agents browse the live web smartly.
+
+- [ComfyUI](https://comfyui.org)
+  Visual node builder for wild diffusion experiments.
+
+---
+
+## Delta Log
+
+2025-09-04 — Added: 4 tools; Verified: none; Removed: none; Notable combo: none
+
