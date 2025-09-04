@@ -66,8 +66,24 @@ Sample output: "Corrected spelling of asynchronous."
 - [FounderPal Idea Validator](https://founderpal.ai/idea-validator)  
   Tells you if your billion-dollar idea is more like fifty bucks.
 
-- [FounderPal Business Ideas Generator](https://founderpal.ai/business-ideas-generator)  
+- [FounderPal Business Ideas Generator](https://founderpal.ai/business-ideas-generator)
   Toss in keywords, get startup pitches back.
+
+Mixo — Launch pages before your coffee cools.
+
+[status: UNVERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=S] [friction=med]
+
+What it does: Generates and hosts simple landing pages from a short idea prompt. You provide a few lines; it drafts copy, layout, and signup forms. It handles mailing list signups and basic analytics automatically.
+Why it matters: Lets you validate demand or collect emails without hiring a designer or touching code. You can spin up variants and test messaging in an afternoon.
+Free-tier ceiling: 1 landing page with basic analytics.
+Agent-readiness: No API or webhooks; treat as manual step in validation funnel.
+How to use (Recipe):
+1. Sign up and describe your idea in 2–3 sentences.
+2. Pick a style; Mixo fills in copy, images, and a signup form.
+3. Publish and share the link to start collecting emails.
+Where it breaks: Design output is generic, there's no code export, and customization is limited.
+Alternatives: Durable, Typedream.
+Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke design.
 
 ---
 
@@ -295,6 +311,7 @@ Sample output: "Average sales: $532; peak in July."
 
 ## Delta Log
 
+2025-09-04 — Added: 1 tool; Verified: none; Removed: none; Notable combo: none
 2025-09-04 — Added: 50 tools; Verified: none; Removed: none; Notable combo: none
 2025-09-04 — Added: 2 tools; Verified: aider, open-interpreter; Removed: none; Notable combo: none
 2025-09-04 — Added: 4 tools; Verified: none; Removed: none; Notable combo: none
