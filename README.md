@@ -34,8 +34,12 @@ Here’s the first selection:
 - [Bolt.new](https://bolt.new)  
   Spins up prototypes before your coffee gets cold.
 
-- [Google AI Studio App Generator](https://ai.google/tools/studio/)  
+- [Google AI Studio App Generator](https://ai.google/tools/studio/)
   Build and tinker with AI apps right in your browser.
+
+Aider — ChatGPT-coded patches without leaving terminal
+[status: VERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=M] [friction=low]
+Test: fixed README typo (u/commitwizard) — 00:52, quality 4/5.
 
 ---
 
@@ -167,6 +171,10 @@ Here’s the first selection:
 - [AutoGen Studio](https://autogen.microsoft.com)
   Spin up multi-agent workflows in your browser.
 
+Open Interpreter — Talk to your machine, it types for you
+[status: VERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=L] [friction=med]
+Test: summarized 100-row CSV (u/datajuggler) — 01:18, quality 4/5.
+
 ---
 
 ## 15. Weird & Wonderful
@@ -181,5 +189,6 @@ Here’s the first selection:
 
 ## Delta Log
 
+2025-09-04 — Added: 2 tools; Verified: aider, open-interpreter; Removed: none; Notable combo: none
 2025-09-04 — Added: 4 tools; Verified: none; Removed: none; Notable combo: none
 
