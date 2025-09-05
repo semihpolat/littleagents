@@ -1,12 +1,15 @@
 # littleagents
 300 Free (maybe not) AI Tools
 
-Why this list exists?
-I’ve always loved browsing through these kinds of lists, but most of the time I found myself getting lost in them or wasting time on tools that didn’t really help me. That’s why I decided to put this list together.
+##Why This List Exists
 
-Here, I’ll only feature products that I’ve personally enjoyed using—or that you’ve enjoyed and can show proof of (like a PR request). Tools that don’t get love will be removed, and the ones that do will stay. To save you as much time as possible, I’ll also test them when I can, give them a rating, and note how long it actually takes on average to complete a task with them.
+We all enjoy browsing through big shiny lists of tools. The problem is they often eat up our time, drown us in noise, and leave us with things we never actually use. That is exactly what I wanted to fix.
 
-As someone working in Silicon Valley, I really needed a list like this for myself—hopefully you’ll find it useful too.
+This list works differently. Only tools that prove their value make it in. Either I have tested and enjoyed them myself, or you have vouched for them with proof like a PR request. If a tool gets no love, it disappears. If it delivers, it stays.
+
+To save you even more time, I will personally test them whenever possible, give them a rating, and share how long it really takes on average to finish a task. No hype, only practical results.
+
+I built this list because I needed it myself while working in Silicon Valley. Now it is here for you as well. Hopefully it saves you as much frustration as it saves me.
 
 ---
 
