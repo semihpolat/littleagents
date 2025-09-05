@@ -1,7 +1,14 @@
 # littleagents
 300 Free (maybe not) AI Tools
 
-# 300 Free (Maybe Not) AI Agent Tools
+Why this list exists?
+I’ve always loved browsing through these kinds of lists, but most of the time I found myself getting lost in them or wasting time on tools that didn’t really help me. That’s why I decided to put this list together.
+
+Here, I’ll only feature products that I’ve personally enjoyed using—or that you’ve enjoyed and can show proof of (like a PR request). Tools that don’t get love will be removed, and the ones that do will stay. To save you as much time as possible, I’ll also test them when I can, give them a rating, and note how long it actually takes on average to complete a task with them.
+
+As someone working in Silicon Valley, I really needed a list like this for myself—hopefully you’ll find it useful too.
+
+---
 
 In this post, I’ve compiled different categories of free (or partly free) AI tools.
 Here’s the first selection:
