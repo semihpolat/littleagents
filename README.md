@@ -26,6 +26,7 @@ Here’s the first selection:
 16. [Under-the-Radar Agentic Tools](#16-under-the-radar-agentic-tools)
 17. [Prompt Marketplaces & Libraries](#17-prompt-marketplaces--libraries)
 18. [Community-Sourced Agent Frameworks](#18-community-sourced-agent-frameworks)
+19. [Content Creators’ Must-Haves](#19-content-creators-must-haves)
 
 ---
 
@@ -306,6 +307,17 @@ Sample output: "Average sales: $532; peak in July."
 
 - [OpenHands](https://github.com/AllHandsAI/OpenHands)
   Operates your computer via natural language with a safety review loop.
+
+---
+
+## 19. Content Creators’ Must-Haves
+
+- BlinkLabs — https://blinklabs.ai  
+  AI-powered content generation studio—think scripts, visuals, and edits all in one.
+
+- GummySearch — https://gummysearch.com  
+  Scans Reddit communities for recurring “pain point” phrases and turns them into lists of content ideas or product hypotheses.  
+  Why it matters: SaaS founders and creators swear by it as the best “subreddit listening” tool to uncover what your audience really struggles with.  
 
 ---
 
