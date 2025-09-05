@@ -1,7 +1,7 @@
 # littleagents
 300 Free (maybe not) AI Tools
 
-## Why This List Exists
+### Why This List Exists
 
 We all enjoy browsing through big shiny lists of tools. The problem is they often eat up our time, drown us in noise, and leave us with things we never actually use. That is exactly what I wanted to fix.
 
