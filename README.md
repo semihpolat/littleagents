@@ -1,5 +1,5 @@
 # littleagents
-300 Free (maybe not) AI Tools
+Free (maybe not) AI Tools
 
 ### Why This List Exists
 
@@ -18,12 +18,9 @@ Here’s the first selection:
 
 ## Table of Contents
 
-1. [Coding Sidekicks](#1-coding-sidekicks)
-2. [Zero-Budget Biz Helpers](#2-zero-budget-biz-helpers)
-3. [Free LLM Hangouts](#3-free-llm-hangouts)
 4. [Last-Minute Deadline Lifesavers](#4-last-minute-deadline-lifesavers)
 5. [Design Help for the Talentless](#5-design-help-for-the-talentless)
-6. [Bedroom Beat Machines](#6-bedroom-beat-machines)
+6. [Bedroom Producers](#6-bedroom-producers)
 7. [Couch-Friendly Video Magic](#7-couch-friendly-video-magic)
 8. [Automation Gremlins](#8-automation-gremlins)
 9. [SEO Spells & Hype Tricks](#9-seo-spells--hype-tricks)
@@ -33,6 +30,9 @@ Here’s the first selection:
 13. [Mind & Body Sidekicks](#13-mind--body-sidekicks)
 14. [Agent Playgrounds](#14-agent-playgrounds)
 15. [Weird & Wonderful](#15-weird--wonderful)
+1. [Coding Sidekicks](#1-coding-sidekicks)
+2. [Zero-Budget Biz Helpers](#2-zero-budget-biz-helpers)
+3. [Free LLM Hangouts](#3-free-llm-hangouts)
 16. [Under-the-Radar Agentic Tools](#16-under-the-radar-agentic-tools)
 17. [Prompt Marketplaces & Libraries](#17-prompt-marketplaces--libraries)
 18. [Community-Sourced Agent Frameworks](#18-community-sourced-agent-frameworks)
@@ -110,9 +110,6 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ## 4. Last-Minute Deadline Lifesavers
 
-- [Moonbeam](https://www.moonbeam.ai)  
-  Whips up long-form drafts when the deadline is yesterday.
-
 - [Jenni](https://jenni.ai)  
   Co-writes essays so you can pretend you planned ahead.
 
@@ -128,7 +125,7 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ---
 
-## 6. Bedroom Beat Machines
+## 6. Bedroom Producers
 
 - [Riffusion](https://www.riffusion.com)  
   Generates music from text—neighbors may be confused.
