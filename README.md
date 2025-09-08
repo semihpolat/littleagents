@@ -1,6 +1,8 @@
 # littleagents
 Free (maybe not) AI Tools
 
+👉 Join us on [Discord](https://discord.gg/xNw4K7ggXS)
+
 Want to contribute? Please read the [Contributing Guide](CONTRIBUTING.md) first.
 
 ### Why This List Exists
@@ -247,20 +249,19 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ## 16. Under-the-Radar Agentic Tools
 
-- [Adala](https://github.com/HumanSignal/Adala) — Turns labeling chores into obedient robot tasks.
-- [Agent4Rec](https://github.com/LehengTHU/Agent4Rec) — Simulates movie fans so recommender models get smart.
-- [AgentForge](https://github.com/DataBassGit/AgentForge) — Low-code workshop for crafting custom autonomous workers.
-- [AgentGPT](https://agentgpt.reworkd.ai/) — Spawn goal-seeking GPTs in your browser sandbox.
-- [AgentPilot](https://github.com/jbexta/AgentPilot) — Desktop cockpit for launching and chatting with agents.
+### Orchestration and Multi-Agent Frameworks
+- [AutoGen](https://github.com/microsoft/autogen) — Microsoft's multimodal agent orchestration toolkit.
+- [CrewAI](https://github.com/joaomdmoura/crewai) — Assigns specialized AI roles and keeps them in sync.
 - [Agents](https://github.com/aiwaves-cn/agents) — Aiwaves' toolkit for multi-agent experiments gone wild.
 - [AgentVerse](https://github.com/OpenBMB/AgentVerse) — Collaboration playground for swarms of conversational bots.
+- [AgentForge](https://github.com/DataBassGit/AgentForge) — Low-code workshop for crafting custom autonomous workers.
+- [dotagent](https://github.com/dot-agent/dotagent) — Minimal agent framework with dotfile vibes.
+- [FastAgency](https://fastagency.ai/latest/) — Template-based framework for shipping agents fast.
 - [AI Legion](https://github.com/eumemic/ai-legion) — Crowdsources open-source agents into digital armies.
-- [AIlice](https://github.com/myshell-ai/AIlice) — Anime-styled chatbot that actually codes on command.
-- [AutoGen](https://github.com/microsoft/autogen) — Microsoft's multimodal agent orchestration toolkit.
+
+### Autonomous Goal-Seeking Agents
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Autonomous GPT worker that writes plans then executes.
-- [Automata](https://github.com/emrgnt-cmplxty/automata) — LLM coder that roams your repo fixing TODOs.
-- [AutoPR](https://github.com/irgolic/AutoPR) — Generates pull requests while you refill coffee.
-- [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot) — Hires interns before HR wakes up.
+- [AgentGPT](https://agentgpt.reworkd.ai/) — Spawn goal-seeking GPTs in your browser sandbox.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) — Tiny agent that loops tasks like a toddler with coffee.
 - [BabyBeeAGI](https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi/) — Adds swarm smarts to BabyAGI's todo list.
 - [BabyCatAGI](https://replit.com/@YoheiNakajima/BabyCatAGI) — Feline-themed agent that chases goals nine times.
@@ -268,35 +269,53 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 - [BabyElfAGI](https://twitter.com/yoheinakajima/status/1678443482866933760) — Holiday helper that scripts while you nap.
 - [BabyCommandAGI](https://github.com/saten-private/BabyCommandAGI) — Shell-loving baby agent that sends terminal commands.
 - [BabyFoxAGI](https://github.com/yoheinakajima/babyagi/tree/main/classic/babyfoxagi) — Sneaky task agent that pivots fast.
-- [BambooAI](https://github.com/pgalko/BambooAI) — Scrapes websites politely then summarizes findings.
-- [BeeBot](https://github.com/AutoPackAI/beebot) — Swarm-friendly automation that buzzes through forms.
-- [Blinky](https://github.com/seahyinghang8/blinky) — CLI ghost that haunts logs for anomalies.
-- [Bloop](https://bloop.ai/) — Code search that whispers answers from repos.
-- [BondAI](https://bondai.dev/) — Hooks AI agents into microservices with minimal glue.
-- [bumpgen](https://github.com/xeol-io/bumpgen) — Generates commit bumps without forgetting semver.
-- [Cal.ai](https://cal.ai) — Calendar assistant that books meetings before you reply.
+- [evo.ninja](https://evo.ninja/) — Evolutionary agent that mutates its own prompts.
 - [CAMEL](https://github.com/camel-ai/camel) — Role-playing agents that chat themselves into solutions.
-- [ChatArena](https://www.chatarena.org/) — Battle royale for dialogue models in the browser.
-- [ChatDev](https://github.com/OpenBMB/ChatDev) — Pretend dev team that scaffolds software via chat.
-- [ChemCrow](https://github.com/ur-whitelab/chemcrow-public) — Lab assistant agent that drafts chemistry workflows.
-- [Clippy](https://github.com/ennucore/clippy/) — Yes, that Clippy—now with GPT-4 snark.
+
+### Code, Repos, and DevOps Automation
+- [Automata](https://github.com/emrgnt-cmplxty/automata) — LLM coder that roams your repo fixing TODOs.
+- [AutoPR](https://github.com/irgolic/AutoPR) — Generates pull requests while you refill coffee.
 - [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) — Tencent's coder bot that patches Java faster.
 - [Continue](https://continue.dev/) — VS Code plugin that completes code like a coworker.
-- [CrewAI](https://github.com/joaomdmoura/crewai) — Assigns specialized AI roles and keeps them in sync.
-- [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper) — Turns raw datasets into academic PDFs.
-- [Databerry](https://www.databerry.ai/) — No-code builder for LLM-powered data agents.
-- [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Records demos of agents without screen jitters.
+- [Bloop](https://bloop.ai/) — Code search that whispers answers from repos.
 - [DevGPT](https://github.com/jina-ai/dev-gpt) — Jina's agent that scaffolds microservices on demand.
-- [Devika](https://github.com/stitionai/devika) — Browser agent that navigates like a patient intern.
 - [Devon](https://github.com/entropy-research/Devon) — Research partner that reads docs so you don't.
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — Automates deployments while ops sleeps.
-- [dotagent](https://github.com/dot-agent/dotagent) — Minimal agent framework with dotfile vibes.
-- [Eidolon](https://eidolonai.com/) — Serverless runtime for running ephemeral agents.
+- [bumpgen](https://github.com/xeol-io/bumpgen) — Generates commit bumps without forgetting semver.
+
+### Browser/RPA and Desktop
+- [Devika](https://github.com/stitionai/devika) — Browser agent that navigates like a patient intern.
+- [AgentPilot](https://github.com/jbexta/AgentPilot) — Desktop cockpit for launching and chatting with agents.
+- [BeeBot](https://github.com/AutoPackAI/beebot) — Swarm-friendly automation that buzzes through forms.
 - [English Compiler](https://github.com/uilicious/english-compiler) — Turns plain English into scripts that actually run.
-- [evo.ninja](https://evo.ninja/) — Evolutionary agent that mutates its own prompts.
-- [FastAgency](https://fastagency.ai/latest/) — Template-based framework for shipping agents fast.
+- [BambooAI](https://github.com/pgalko/BambooAI) — Scrapes websites politely then summarizes findings.
+
+### Data and Document Agents
+- [Adala](https://github.com/HumanSignal/Adala) — Turns labeling chores into obedient robot tasks.
+- [Databerry](https://www.databerry.ai/) — No-code builder for LLM-powered data agents.
+- [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper) — Turns raw datasets into academic PDFs.
+
+### Domain-Specific Agents
+- [Agent4Rec](https://github.com/LehengTHU/Agent4Rec) — Simulates movie fans so recommender models get smart.
+- [ChemCrow](https://github.com/ur-whitelab/chemcrow-public) — Lab assistant agent that drafts chemistry workflows.
+- [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot) — Hires interns before HR wakes up.
+- [Cal.ai](https://cal.ai) — Calendar assistant that books meetings before you reply.
 - [Friday](https://github.com/amirrezasalimi/friday/) — AI sidekick that schedules, emails, and nags gently.
 - [GeniA](https://github.com/genia-dev/GeniA) — Spanish-friendly agent builder with guardrails.
+
+### Experiments, Demos, and Playgrounds
+- [ChatArena](https://www.chatarena.org/) — Battle royale for dialogue models in the browser.
+- [ChatDev](https://github.com/OpenBMB/ChatDev) — Pretend dev team that scaffolds software via chat.
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Records demos of agents without screen jitters.
+- [AIlice](https://github.com/myshell-ai/AIlice) — Anime-styled chatbot that actually codes on command.
+- [Clippy](https://github.com/ennucore/clippy/) — Yes, that Clippy—now with GPT-4 snark.
+
+### Runtimes and Integrations
+- [Eidolon](https://eidolonai.com/) — Serverless runtime for running ephemeral agents.
+- [BondAI](https://bondai.dev/) — Hooks AI agents into microservices with minimal glue.
+
+### Observability and Operations
+- [Blinky](https://github.com/seahyinghang8/blinky) — CLI ghost that haunts logs for anomalies.
 
 ---
 
@@ -312,32 +331,35 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ## 18. Community-Sourced Agent Frameworks
 
+### General-Purpose Frameworks
 - [SuperAGI](https://superagi.com)
   Open-source framework for building and deploying autonomous agents.
-
-- [OpenHands](https://github.com/AllHandsAI/OpenHands)
-  Operates your computer via natural language with a safety review loop.
-
-- [LangGraph](https://www.langchain.com/langgraph)
-  Graph-based agent framework with stateful workflows, branching, and human-in-the-loop.
-
 - [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
   Official SDK to build tool-using, multi-step agents on OpenAI's stack.
-
-- [Smolagents](https://huggingface.co/docs/smolagents/en/index)
-  Minimal, code-executing agents from Hugging Face for quick automations.
-
-- [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
-  .NET-first orchestration of AI skills and plans for enterprise apps.
-
-- [LlamaIndex Agents](https://www.llamaindex.ai/)
-  Retrieval-centric agents that blend data indexing with tool use.
-
 - [Strands Agents](https://strandsagents.com)
   Model-agnostic agent SDK with OpenTelemetry tracing and Bedrock/Anthropic/OpenAI via LiteLLM.
 
+### Graph/State-Oriented
+- [LangGraph](https://www.langchain.com/langgraph)
+  Graph-based agent framework with stateful workflows, branching, and human-in-the-loop.
+
+### Minimal and Type-Safe
+- [Smolagents](https://huggingface.co/docs/smolagents/en/index)
+  Minimal, code-executing agents from Hugging Face for quick automations.
 - [Pydantic AI](https://ai.pydantic.dev/)
   Type-safe Python agents with strict input/output validation and great DX.
+
+### Retrieval/Data-Centric
+- [LlamaIndex Agents](https://www.llamaindex.ai/)
+  Retrieval-centric agents that blend data indexing with tool use.
+
+### Enterprise and .NET
+- [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+  .NET-first orchestration of AI skills and plans for enterprise apps.
+
+### OS and Device Control
+- [OpenHands](https://github.com/AllHandsAI/OpenHands)
+  Operates your computer via natural language with a safety review loop.
 
 ---
 
