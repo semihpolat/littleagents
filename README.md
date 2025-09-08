@@ -20,21 +20,21 @@ Here’s the first selection:
 
 ## Table of Contents
 
-4. [Last-Minute Deadline Lifesavers](#4-last-minute-deadline-lifesavers)
-5. [Design Help for the Talentless](#5-design-help-for-the-talentless)
-6. [Bedroom Producers](#6-bedroom-producers)
-7. [Couch-Friendly Video Magic](#7-couch-friendly-video-magic)
-8. [Automation Gremlins](#8-automation-gremlins)
-9. [SEO Spells & Hype Tricks](#9-seo-spells--hype-tricks)
-10. [Chatbots That Never Ghost](#10-chatbots-that-never-ghost)
-11. [Study Buddies That Don't Judge](#11-study-buddies-that-dont-judge)
-12. [Numbers Whisperers](#12-numbers-whisperers)
-13. [Mind & Body Sidekicks](#13-mind--body-sidekicks)
-14. [Agent Playgrounds](#14-agent-playgrounds)
-15. [Weird & Wonderful](#15-weird--wonderful)
-1. [Coding Sidekicks](#1-coding-sidekicks)
-2. [Zero-Budget Biz Helpers](#2-zero-budget-biz-helpers)
-3. [Free LLM Hangouts](#3-free-llm-hangouts)
+1. [Last-Minute Deadline Lifesavers](#1-last-minute-deadline-lifesavers)
+2. [Design Help for the Talentless](#2-design-help-for-the-talentless)
+3. [Bedroom Producers](#3-bedroom-producers)
+4. [Couch-Friendly Video Magic](#4-couch-friendly-video-magic)
+5. [Automation Gremlins](#5-automation-gremlins)
+6. [SEO Spells & Hype Tricks](#6-seo-spells--hype-tricks)
+7. [Chatbots That Never Ghost](#7-chatbots-that-never-ghost)
+8. [Study Buddies That Don't Judge](#8-study-buddies-that-dont-judge)
+9. [Numbers Whisperers](#9-numbers-whisperers)
+10. [Mind & Body Sidekicks](#10-mind--body-sidekicks)
+11. [Agent Playgrounds](#11-agent-playgrounds)
+12. [Weird & Wonderful](#12-weird--wonderful)
+13. [Coding Sidekicks](#13-coding-sidekicks)
+14. [Zero-Budget Biz Helpers](#14-zero-budget-biz-helpers)
+15. [Free LLM Hangouts](#15-free-llm-hangouts)
 16. [Under-the-Radar Agentic Tools](#16-under-the-radar-agentic-tools)
 17. [Prompt Marketplaces & Libraries](#17-prompt-marketplaces--libraries)
 18. [Community-Sourced Agent Frameworks](#18-community-sourced-agent-frameworks)
@@ -42,7 +42,7 @@ Here’s the first selection:
 
 ---
 
-## 1. Coding Sidekicks
+## 13. Coding Sidekicks
 
 - [Cursor](https://www.cursor.so)  
   Your AI pair programmer that's surprisingly good at 3am bug hunts.
@@ -74,7 +74,7 @@ Sample output: "Corrected spelling of asynchronous."
 
 ---
 
-## 2. Zero-Budget Biz Helpers
+## 14. Zero-Budget Biz Helpers
 
 - [FounderPal Idea Validator](https://founderpal.ai/idea-validator)  
   Tells you if your billion-dollar idea is more like fifty bucks.
@@ -100,7 +100,7 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ---
 
-## 3. Free LLM Hangouts
+## 15. Free LLM Hangouts
 
 - [Lmarena.ai](https://lmarena.ai)  
   Pit language models against each other like it's a nerdy fight club.
@@ -110,14 +110,14 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ---
 
-## 4. Last-Minute Deadline Lifesavers
+## 1. Last-Minute Deadline Lifesavers
 
 - [Jenni](https://jenni.ai)  
   Co-writes essays so you can pretend you planned ahead.
 
 ---
 
-## 5. Design Help for the Talentless
+## 2. Design Help for the Talentless
 
 - [Kittl](https://www.kittl.com)  
   Drag-and-drop designs that won't make your eyes hurt.
@@ -127,7 +127,7 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ---
 
-## 6. Bedroom Producers
+## 3. Bedroom Producers
 
 - [Riffusion](https://www.riffusion.com)  
   Generates music from text—neighbors may be confused.
@@ -137,7 +137,7 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ---
 
-## 7. Couch-Friendly Video Magic
+## 4. Couch-Friendly Video Magic
 
 - [OpusClip](https://www.opus.pro)  
   Cuts your long vids into viral-ready short clips.
@@ -147,7 +147,7 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ---
 
-## 8. Automation Gremlins
+## 5. Automation Gremlins
 
 - [Bardeen](https://www.bardeen.ai)  
   Little browser elves that click buttons for you.
@@ -157,7 +157,7 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ---
 
-## 9. SEO Spells & Hype Tricks
+## 6. SEO Spells & Hype Tricks
 
 - [NeuralText](https://www.neuraltext.com)  
   Conjures keywords and outlines for your next hit post.
@@ -167,7 +167,7 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ---
 
-## 10. Chatbots That Never Ghost
+## 7. Chatbots That Never Ghost
 
 - [Flowise](https://flowiseai.com)  
   Build custom bots without touching a line of code.
@@ -177,7 +177,7 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ---
 
-## 11. Study Buddies That Don't Judge
+## 8. Study Buddies That Don't Judge
 
 - [TeachAnything](https://teach-anything.com)  
   Ask any "dumb" question; it answers nicely.
@@ -187,7 +187,7 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ---
 
-## 12. Numbers Whisperers
+## 9. Numbers Whisperers
 
 - [Obviously AI](https://www.obviously.ai)  
   Point, click, predict—no data science degree needed.
@@ -197,7 +197,7 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ---
 
-## 13. Mind & Body Sidekicks
+## 10. Mind & Body Sidekicks
 
 - [Wysa](https://www.wysa.io)  
   Chat about your day with a friendly therapy bot.
@@ -207,7 +207,7 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 
 ---
 
-## 14. Agent Playgrounds
+## 11. Agent Playgrounds
 
 - [LangFlow](https://langflow.org)
   Drag-and-drop chains for LLM tinkering.
@@ -236,7 +236,7 @@ Sample output: "Average sales: $532; peak in July."
 
 ---
 
-## 15. Weird & Wonderful
+## 12. Weird & Wonderful
 
 - [Tavily](https://www.tavily.com)
   API that lets agents browse the live web smartly.
