@@ -318,6 +318,27 @@ Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke
 - [OpenHands](https://github.com/AllHandsAI/OpenHands)
   Operates your computer via natural language with a safety review loop.
 
+- [LangGraph](https://www.langchain.com/langgraph)
+  Graph-based agent framework with stateful workflows, branching, and human-in-the-loop.
+
+- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
+  Official SDK to build tool-using, multi-step agents on OpenAI's stack.
+
+- [Smolagents](https://huggingface.co/docs/smolagents/en/index)
+  Minimal, code-executing agents from Hugging Face for quick automations.
+
+- [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+  .NET-first orchestration of AI skills and plans for enterprise apps.
+
+- [LlamaIndex Agents](https://www.llamaindex.ai/)
+  Retrieval-centric agents that blend data indexing with tool use.
+
+- [Strands Agents](https://strandsagents.com)
+  Model-agnostic agent SDK with OpenTelemetry tracing and Bedrock/Anthropic/OpenAI via LiteLLM.
+
+- [Pydantic AI](https://ai.pydantic.dev/)
+  Type-safe Python agents with strict input/output validation and great DX.
+
 ---
 
 ## 19. Content Creators’ Must-Haves
