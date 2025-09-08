@@ -42,73 +42,6 @@ Here’s the first selection:
 
 ---
 
-## 13. Coding Sidekicks
-
-- [Cursor](https://www.cursor.so)  
-  Your AI pair programmer that's surprisingly good at 3am bug hunts.
-
-- [Bolt.new](https://bolt.new)  
-  Spins up prototypes before your coffee gets cold.
-
-- [Google AI Studio App Generator](https://ai.google/tools/studio/)
-  Build and tinker with AI apps right in your browser.
-
-Aider — ChatGPT-coded patches without leaving terminal
-[status: VERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=M] [friction=low]
-What it does: CLI that chats about your repo and writes commits.
-Why it matters: ships small fixes fast without opening an editor.
-Free-tier ceiling: open source; uses your own OpenAI key; cost per token.
-Agent-readiness: no API or hooks; best as local commit helper.
-How to use (Recipe):
-1. `pip install aider-chat`
-2. Run `aider --model gpt-4o-mini` inside a git repo.
-3. Describe changes; approve patch and let it commit.
-Where it breaks: guesses wrong on binary files or large diffs.
-Alternatives: Cursor, GitHub Copilot CLI.
-Keep / Skip: Keep for quick terminal tweaks; skip if you need GUI flow.
-Quick Benchmark (≤2 min):
-Task: Fix typo in README (u/commitwizard on r/aider).
-Time: 00:52
-Quality: 4
-Sample output: "Corrected spelling of asynchronous."
-
----
-
-## 14. Zero-Budget Biz Helpers
-
-- [FounderPal Idea Validator](https://founderpal.ai/idea-validator)  
-  Tells you if your billion-dollar idea is more like fifty bucks.
-
-- [FounderPal Business Ideas Generator](https://founderpal.ai/business-ideas-generator)
-  Toss in keywords, get startup pitches back.
-
-Mixo — Launch pages before your coffee cools.
-
-[status: UNVERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=S] [friction=med]
-
-What it does: Generates and hosts simple landing pages from a short idea prompt. You provide a few lines; it drafts copy, layout, and signup forms. It handles mailing list signups and basic analytics automatically.
-Why it matters: Lets you validate demand or collect emails without hiring a designer or touching code. You can spin up variants and test messaging in an afternoon.
-Free-tier ceiling: 1 landing page with basic analytics.
-Agent-readiness: No API or webhooks; treat as manual step in validation funnel.
-How to use (Recipe):
-1. Sign up and describe your idea in 2–3 sentences.
-2. Pick a style; Mixo fills in copy, images, and a signup form.
-3. Publish and share the link to start collecting emails.
-Where it breaks: Design output is generic, there's no code export, and customization is limited.
-Alternatives: Durable, Typedream.
-Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke design.
-
----
-
-## 15. Free LLM Hangouts
-
-- [Lmarena.ai](https://lmarena.ai)  
-  Pit language models against each other like it's a nerdy fight club.
-
-- [OpenRouter](https://openrouter.ai)  
-  One API to try many LLMs without selling your soul.
-
----
 
 ## 1. Last-Minute Deadline Lifesavers
 
@@ -243,6 +176,74 @@ Sample output: "Average sales: $532; peak in July."
 
 - [ComfyUI](https://comfyui.org)
   Visual node builder for wild diffusion experiments.
+
+## 13. Coding Sidekicks
+
+- [Cursor](https://www.cursor.so)  
+  Your AI pair programmer that's surprisingly good at 3am bug hunts.
+
+- [Bolt.new](https://bolt.new)  
+  Spins up prototypes before your coffee gets cold.
+
+- [Google AI Studio App Generator](https://ai.google/tools/studio/)
+  Build and tinker with AI apps right in your browser.
+
+Aider — ChatGPT-coded patches without leaving terminal
+[status: VERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=M] [friction=low]
+What it does: CLI that chats about your repo and writes commits.
+Why it matters: ships small fixes fast without opening an editor.
+Free-tier ceiling: open source; uses your own OpenAI key; cost per token.
+Agent-readiness: no API or hooks; best as local commit helper.
+How to use (Recipe):
+1. `pip install aider-chat`
+2. Run `aider --model gpt-4o-mini` inside a git repo.
+3. Describe changes; approve patch and let it commit.
+Where it breaks: guesses wrong on binary files or large diffs.
+Alternatives: Cursor, GitHub Copilot CLI.
+Keep / Skip: Keep for quick terminal tweaks; skip if you need GUI flow.
+Quick Benchmark (≤2 min):
+Task: Fix typo in README (u/commitwizard on r/aider).
+Time: 00:52
+Quality: 4
+Sample output: "Corrected spelling of asynchronous."
+
+---
+
+## 14. Zero-Budget Biz Helpers
+
+- [FounderPal Idea Validator](https://founderpal.ai/idea-validator)  
+  Tells you if your billion-dollar idea is more like fifty bucks.
+
+- [FounderPal Business Ideas Generator](https://founderpal.ai/business-ideas-generator)
+  Toss in keywords, get startup pitches back.
+
+Mixo — Launch pages before your coffee cools.
+
+[status: UNVERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=S] [friction=med]
+
+What it does: Generates and hosts simple landing pages from a short idea prompt. You provide a few lines; it drafts copy, layout, and signup forms. It handles mailing list signups and basic analytics automatically.
+Why it matters: Lets you validate demand or collect emails without hiring a designer or touching code. You can spin up variants and test messaging in an afternoon.
+Free-tier ceiling: 1 landing page with basic analytics.
+Agent-readiness: No API or webhooks; treat as manual step in validation funnel.
+How to use (Recipe):
+1. Sign up and describe your idea in 2–3 sentences.
+2. Pick a style; Mixo fills in copy, images, and a signup form.
+3. Publish and share the link to start collecting emails.
+Where it breaks: Design output is generic, there's no code export, and customization is limited.
+Alternatives: Durable, Typedream.
+Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke design.
+
+---
+
+## 15. Free LLM Hangouts
+
+- [Lmarena.ai](https://lmarena.ai)  
+  Pit language models against each other like it's a nerdy fight club.
+
+- [OpenRouter](https://openrouter.ai)  
+  One API to try many LLMs without selling your soul.
+
+---
 
 ## 16. Under-the-Radar Agentic Tools
 
