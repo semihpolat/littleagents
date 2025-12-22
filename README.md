@@ -5,6 +5,17 @@ Free (maybe not) AI Tools
 
 Want to contribute? Please read the [Contributing Guide](CONTRIBUTING.md) first.
 
+- [Bolt.new](https://bolt.new)  
+  Spins up prototypes before your coffee gets cold.
+
+- [Google AI Studio App Generator](https://ai.google/tools/studio/)
+  Build and tinker with AI apps right in your browser.
+
+Aider — ChatGPT-coded patches without leaving terminal
+[status: VERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=M] [friction=low]
+Test: fixed README typo (u/commitwizard) — 00:52, quality 4/5.
+
+---
 ### Why This List Exists
 
 We all enjoy browsing through big shiny lists of tools. The problem is they often eat up our time, drown us in noise, and leave us with things we never actually use. That is exactly what I wanted to fix.
@@ -152,6 +163,7 @@ Here’s the first selection:
 
 Open Interpreter — Talk to your machine, it types for you
 [status: VERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=L] [friction=med]
+Test: summarized 100-row CSV (u/datajuggler) — 01:18, quality 4/5.
 What it does: executes Python, JS, or shell commands from natural language chat.
 Why it matters: prototypes automations without writing scripts.
 Free-tier ceiling: open source; runs local models or OpenAI key; unlimited.
