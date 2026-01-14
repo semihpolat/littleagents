@@ -1,396 +1,356 @@
-# littleagents
-Free (maybe not) AI Tools
+# Awesome AI Tools & Agents
 
-👉 Join us on [Discord](https://discord.gg/xNw4K7ggXS)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Want to contribute? Please read the [Contributing Guide](CONTRIBUTING.md) first.
+A curated list of AI tools, coding assistants, agent frameworks, and productivity boosters. Updated for 2026.
 
-- [Bolt.new](https://bolt.new)  
-  Spins up prototypes before your coffee gets cold.
+> **Philosophy:** Only tools that prove their value make it here. Either personally tested or community-vouched with proof. No hype, only practical results.
 
-- [Google AI Studio App Generator](https://ai.google/tools/studio/)
-  Build and tinker with AI apps right in your browser.
-
-Aider — ChatGPT-coded patches without leaving terminal
-[status: VERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=M] [friction=low]
-Test: fixed README typo (u/commitwizard) — 00:52, quality 4/5.
-
----
-### Why This List Exists
-
-We all enjoy browsing through big shiny lists of tools. The problem is they often eat up our time, drown us in noise, and leave us with things we never actually use. That is exactly what I wanted to fix.
-
-This list works differently. Only tools that prove their value make it in. Either I have tested and enjoyed them myself, or you have vouched for them with proof like a PR request. If a tool gets no love, it disappears. If it delivers, it stays.
-
-To save you even more time, I will personally test them whenever possible, give them a rating, and share how long it really takes on average to finish a task. No hype, only practical results.
-
-I built this list because I needed it myself while working in Silicon Valley. Now it is here for you as well. Hopefully it saves you as much frustration as it saves me.
+👉 Join us on [Discord](https://discord.gg/xNw4K7ggXS) | Want to contribute? Read the [Contributing Guide](CONTRIBUTING.md)
 
 ---
 
-In this post, I’ve compiled different categories of free (or partly free) AI tools.
-Here’s the first selection:
+## Contents
 
-## Table of Contents
-
-1. [Last-Minute Deadline Lifesavers](#1-last-minute-deadline-lifesavers)
-2. [Design Help for the Talentless](#2-design-help-for-the-talentless)
-3. [Bedroom Producers](#3-bedroom-producers)
-4. [Couch-Friendly Video Magic](#4-couch-friendly-video-magic)
-5. [Automation Gremlins](#5-automation-gremlins)
-6. [SEO Spells & Hype Tricks](#6-seo-spells--hype-tricks)
-7. [Chatbots That Never Ghost](#7-chatbots-that-never-ghost)
-8. [Study Buddies That Don't Judge](#8-study-buddies-that-dont-judge)
-9. [Numbers Whisperers](#9-numbers-whisperers)
-10. [Mind & Body Sidekicks](#10-mind--body-sidekicks)
-11. [Agent Playgrounds](#11-agent-playgrounds)
-12. [Weird & Wonderful](#12-weird--wonderful)
-13. [Coding Sidekicks](#13-coding-sidekicks)
-14. [Zero-Budget Biz Helpers](#14-zero-budget-biz-helpers)
-15. [Free LLM Hangouts](#15-free-llm-hangouts)
-16. [Under-the-Radar Agentic Tools](#16-under-the-radar-agentic-tools)
-17. [Prompt Marketplaces & Libraries](#17-prompt-marketplaces--libraries)
-18. [Community-Sourced Agent Frameworks](#18-community-sourced-agent-frameworks)
-19. [Content Creators’ Must-Haves](#19-content-creators-must-haves)
-
----
-
-
-## 1. Last-Minute Deadline Lifesavers
-
-- [Jenni](https://jenni.ai)  
-  Co-writes essays so you can pretend you planned ahead.
+- [AI Coding Assistants](#ai-coding-assistants)
+  - [AI-Native IDEs](#ai-native-ides)
+  - [Terminal & CLI Tools](#terminal--cli-tools)
+  - [Code Completion & Copilots](#code-completion--copilots)
+  - [Autonomous Coding Agents](#autonomous-coding-agents)
+- [AI App Builders](#ai-app-builders)
+- [Agent Frameworks](#agent-frameworks)
+  - [Multi-Agent Orchestration](#multi-agent-orchestration)
+  - [Graph & State-Based](#graph--state-based)
+  - [Minimal & Type-Safe](#minimal--type-safe)
+  - [Enterprise & Platform-Specific](#enterprise--platform-specific)
+- [Model Context Protocol (MCP)](#model-context-protocol-mcp)
+  - [Reference Servers](#reference-servers)
+  - [Popular MCP Servers](#popular-mcp-servers)
+- [Computer Use & Browser Agents](#computer-use--browser-agents)
+- [LLM Providers & Playgrounds](#llm-providers--playgrounds)
+- [Automation & Workflow](#automation--workflow)
+- [AI for Content Creation](#ai-for-content-creation)
+  - [Writing & Research](#writing--research)
+  - [Design & Visual](#design--visual)
+  - [Audio & Music](#audio--music)
+  - [Video](#video)
+- [Data & Analytics](#data--analytics)
+- [Chatbots & Conversational AI](#chatbots--conversational-ai)
+- [Business & Productivity](#business--productivity)
+- [Learning & Research](#learning--research)
 
 ---
 
-## 2. Design Help for the Talentless
+## AI Coding Assistants
 
-- [Kittl](https://www.kittl.com)  
-  Drag-and-drop designs that won't make your eyes hurt.
+### AI-Native IDEs
 
-- [Illustroke](https://www.illustroke.com)  
-  Turns your text into slick SVG illustrations.
+Full IDE experiences rebuilt around AI-first workflows.
 
----
+| Tool | Description | Pricing |
+|------|-------------|---------|
+| [Cursor](https://cursor.com) | VS Code fork with deep AI integration. Composer mode for multi-file edits, predictive tab completion, and local codebase indexing. | $20/mo |
+| [Windsurf](https://windsurf.com) | First IDE with integrated agent (Cascade). Acquired by Cognition. Features SWE-1.5 model, AI Codemaps, and enterprise compliance (SOC 2, HIPAA, FedRAMP). | $15/mo |
+| [Zed](https://zed.dev) | High-performance editor with native AI integration and MCP support. Built in Rust for speed. | Free |
 
-## 3. Bedroom Producers
+### Terminal & CLI Tools
 
-- [Riffusion](https://www.riffusion.com)  
-  Generates music from text—neighbors may be confused.
+Code from anywhere, including your phone.
 
-- [Beatoven](https://www.beatoven.ai)  
-  Mood-based tracks for your podcast or secret mixtape.
+| Tool | Description | Pricing |
+|------|-------------|---------|
+| [Claude Code](https://claude.ai/code) | Anthropic's agentic coding CLI. Lives in your terminal, understands your codebase, handles git workflows. Now available on web and mobile with "teleport" to sync sessions. Powered by Opus 4.5. | Pro/Team |
+| [Aider](https://aider.chat) | CLI that chats about your repo and writes commits. Works with any LLM. | Open Source |
+| [GitHub Copilot CLI](https://githubnext.com/projects/copilot-cli) | Terminal suggestions and command explanations from GitHub. | Copilot sub |
 
----
+### Code Completion & Copilots
 
-## 4. Couch-Friendly Video Magic
+Inline suggestions and pair programming.
 
-- [OpusClip](https://www.opus.pro)  
-  Cuts your long vids into viral-ready short clips.
+| Tool | Description | Pricing |
+|------|-------------|---------|
+| [GitHub Copilot](https://github.com/features/copilot) | The OG AI coding assistant. Deep GitHub integration, chat, and workspace agents. | $10-39/mo |
+| [Codeium](https://codeium.com) | Free alternative with autocomplete for 70+ languages. IDE extensions for everything. | Free tier |
+| [Supermaven](https://supermaven.com) | 1M token context window, fastest autocomplete. Founded by ex-Copilot creator. | $10/mo |
+| [Tabnine](https://tabnine.com) | Privacy-focused, runs locally. Enterprise features with code privacy guarantees. | Free tier |
+| [Continue](https://continue.dev) | Open-source VS Code/JetBrains plugin. Bring your own model. | Open Source |
 
-- [Captions](https://www.captions.ai)  
-  Auto-edits, adds captions, and makes you look pro without leaving the couch.
+### Autonomous Coding Agents
 
----
+Agents that handle entire development tasks.
 
-## 5. Automation Gremlins
-
-- [Bardeen](https://www.bardeen.ai)  
-  Little browser elves that click buttons for you.
-
-- [Superflows](https://www.superflows.ai)  
-  AI that drafts your emails before you even sigh.
-
----
-
-## 6. SEO Spells & Hype Tricks
-
-- [NeuralText](https://www.neuraltext.com)  
-  Conjures keywords and outlines for your next hit post.
-
-- [Postaga](https://postaga.com)  
-  Finds backlinks and outreach targets while you nap.
+| Tool | Description | Pricing |
+|------|-------------|---------|
+| [Devin](https://devin.ai) | Cognition's autonomous software engineer. Full environment with terminal, editor, browser. Multi-agent coordination in v2.0. | $20/mo + credits |
+| [OpenHands](https://github.com/AllHandsAI/OpenHands) | Open-source Devin alternative. Operates your computer via natural language with safety review loop. | Open Source |
+| [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | Princeton's agent for solving GitHub issues. State-of-the-art on SWE-bench. | Open Source |
+| [Codex CLI](https://github.com/openai/codex) | OpenAI's terminal coding agent with sandboxed execution. | API costs |
 
 ---
 
-## 7. Chatbots That Never Ghost
+## AI App Builders
 
-- [Flowise](https://flowiseai.com)  
-  Build custom bots without touching a line of code.
+Build full-stack apps from natural language. The "vibe coding" revolution.
 
-- [Chatbase](https://www.chatbase.co)  
-  Train a chatbot on your docs so customers stop emailing you.
-
----
-
-## 8. Study Buddies That Don't Judge
-
-- [TeachAnything](https://teach-anything.com)  
-  Ask any "dumb" question; it answers nicely.
-
-- [Explainpaper](https://www.explainpaper.com)  
-  Upload a paper, get the TL;DR without the headache.
+| Tool | Description | Best For | Pricing |
+|------|-------------|----------|---------|
+| [v0](https://v0.dev) | Vercel's full-stack builder. Plans, researches, builds complete apps. Smoothest deployment flow. | Developers who code | $20/mo |
+| [Lovable](https://lovable.dev) | Creates complete working apps with auth, file handling, real-time updates. Clean React export. | Designers & founders | $25/mo |
+| [Bolt.new](https://bolt.new) | StackBlitz's WebContainers magic. Full-stack apps in browser, no local setup. | Quick prototypes | Free tier |
+| [Replit Agent](https://replit.com) | Full dev environment with AI. 30+ integrations (Stripe, Figma, Notion). 40M+ users. | All-in-one platform | $25/mo |
+| [Create](https://www.create.xyz) | No-code app builder with AI. Visual editor + AI generation. | Non-technical founders | Free tier |
+| [Softr](https://softr.io) | Build apps on Airtable/Google Sheets. AI-assisted no-code. | Business apps | Free tier |
 
 ---
 
-## 9. Numbers Whisperers
+## Agent Frameworks
 
-- [Obviously AI](https://www.obviously.ai)  
-  Point, click, predict—no data science degree needed.
+Build your own AI agents.
 
-- [Exploratory](https://exploratory.io)  
-  Visual data tinkering for the curious analyst.
+### Multi-Agent Orchestration
 
----
+| Framework | Description | Stars |
+|-----------|-------------|-------|
+| [CrewAI](https://github.com/joaomdmoura/crewai) | Role-playing AI agents that work as a "crew" with specialized roles. Huge community. | 25k+ |
+| [AutoGen](https://github.com/microsoft/autogen) | Microsoft's multi-agent conversations. Treats work as conversation between agents. | 40k+ |
+| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Lightweight, tool-centric. Fast and low token consumption. Official OpenAI. | 20k+ |
+| [Claude Agent SDK](https://github.com/anthropics/claude-code/tree/main/sdk) | Build agents with Claude including computer use. Part of Claude Code. | - |
+| [Strands Agents](https://strandsagents.com) | Model-agnostic with OpenTelemetry tracing. Works with Bedrock, Anthropic, OpenAI. | 5k+ |
+| [AgentVerse](https://github.com/OpenBMB/AgentVerse) | Collaboration playground for swarms of conversational agents. | 4k+ |
 
-## 10. Mind & Body Sidekicks
+### Graph & State-Based
 
-- [Wysa](https://www.wysa.io)  
-  Chat about your day with a friendly therapy bot.
+| Framework | Description | Stars |
+|-----------|-------------|-------|
+| [LangGraph](https://github.com/langchain-ai/langgraph) | Graph-based agents with stateful workflows, branching, human-in-the-loop. Fastest framework in benchmarks. | 10k+ |
+| [LangChain](https://github.com/langchain-ai/langchain) | The OG framework. Comprehensive but higher latency. Great ecosystem. | 100k+ |
 
-- [Skinive](https://skinive.com)
-  Snap a pic, get a quick skin health check.
+### Minimal & Type-Safe
 
----
+| Framework | Description | Stars |
+|-----------|-------------|-------|
+| [Smolagents](https://huggingface.co/docs/smolagents) | Hugging Face's minimal, code-executing agents. Quick automations. | 15k+ |
+| [Pydantic AI](https://ai.pydantic.dev) | Type-safe Python agents. Strict I/O validation, great DX. | 8k+ |
+| [Instructor](https://github.com/jxnl/instructor) | Structured outputs from LLMs using Pydantic. | 10k+ |
 
-## 11. Agent Playgrounds
+### Enterprise & Platform-Specific
 
-- [LangFlow](https://langflow.org)
-  Drag-and-drop chains for LLM tinkering.
-
-- [AutoGen Studio](https://autogen.microsoft.com)
-  Spin up multi-agent workflows in your browser.
-
-Open Interpreter — Talk to your machine, it types for you
-[status: VERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=L] [friction=med]
-Test: summarized 100-row CSV (u/datajuggler) — 01:18, quality 4/5.
-What it does: executes Python, JS, or shell commands from natural language chat.
-Why it matters: prototypes automations without writing scripts.
-Free-tier ceiling: open source; runs local models or OpenAI key; unlimited.
-Agent-readiness: no API yet; treat as local multi-step orchestrator.
-How to use (Recipe):
-1. `pip install open-interpreter`
-2. Run `interpreter` and ask for a task like "plot CSV".
-3. Review and approve each command before execution.
-Where it breaks: long-running tasks can stall; sandboxing is thin.
-Alternatives: OpenAI Code Interpreter, AutoGPT.
-Keep / Skip: Keep for quick data pokes; skip for production jobs.
-Quick Benchmark (≤2 min):
-Task: Summarize 100-row CSV (u/datajuggler on r/LocalLLaMA).
-Time: 01:18
-Quality: 4
-Sample output: "Average sales: $532; peak in July."
+| Framework | Description | Use Case |
+|-----------|-------------|----------|
+| [Semantic Kernel](https://learn.microsoft.com/semantic-kernel) | Microsoft's .NET-first AI orchestration. | Enterprise/.NET |
+| [LlamaIndex](https://llamaindex.ai) | Retrieval-centric agents. Best for RAG pipelines. | Data apps |
+| [Haystack](https://haystack.deepset.ai) | Production-ready NLP pipelines. | Search/QA |
 
 ---
 
-## 12. Weird & Wonderful
+## Model Context Protocol (MCP)
 
-- [Tavily](https://www.tavily.com)
-  API that lets agents browse the live web smartly.
+The open standard for connecting AI to external tools and data. Adopted by Anthropic, OpenAI, and Google.
 
-- [ComfyUI](https://comfyui.org)
-  Visual node builder for wild diffusion experiments.
+### Reference Servers
 
-## 13. Coding Sidekicks
+| Server | Description |
+|--------|-------------|
+| [Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) | Secure file operations with configurable access controls |
+| [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) | Read, search, and manipulate Git repositories |
+| [Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) | Web content fetching and conversion for LLM usage |
+| [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) | Knowledge graph-based persistent memory |
+| [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) | Database queries with read-only safety |
 
-- [Cursor](https://www.cursor.so)  
-  Your AI pair programmer that's surprisingly good at 3am bug hunts.
+### Popular MCP Servers
 
-- [Bolt.new](https://bolt.new)  
-  Spins up prototypes before your coffee gets cold.
+| Server | Description |
+|--------|-------------|
+| [Context7](https://context7.dev) | Up-to-date, version-specific documentation for LLMs. Reduces hallucinations. |
+| [Playwright MCP](https://github.com/anthropics/mcp-playwright) | Browser automation and web scraping |
+| [Sentry MCP](https://github.com/getsentry/sentry-mcp) | Access error logs and monitoring data |
+| [Figma MCP](https://github.com/anthropics/mcp-figma) | Access Figma designs directly |
+| [Linear MCP](https://github.com/anthropics/mcp-linear) | Project management integration |
+| [Slack MCP](https://github.com/anthropics/mcp-slack) | Slack workspace access |
 
-- [Google AI Studio App Generator](https://ai.google/tools/studio/)
-  Build and tinker with AI apps right in your browser.
-
-Aider — ChatGPT-coded patches without leaving terminal
-[status: VERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=M] [friction=low]
-What it does: CLI that chats about your repo and writes commits.
-Why it matters: ships small fixes fast without opening an editor.
-Free-tier ceiling: open source; uses your own OpenAI key; cost per token.
-Agent-readiness: no API or hooks; best as local commit helper.
-How to use (Recipe):
-1. `pip install aider-chat`
-2. Run `aider --model gpt-4o-mini` inside a git repo.
-3. Describe changes; approve patch and let it commit.
-Where it breaks: guesses wrong on binary files or large diffs.
-Alternatives: Cursor, GitHub Copilot CLI.
-Keep / Skip: Keep for quick terminal tweaks; skip if you need GUI flow.
-Quick Benchmark (≤2 min):
-Task: Fix typo in README (u/commitwizard on r/aider).
-Time: 00:52
-Quality: 4
-Sample output: "Corrected spelling of asynchronous."
+**Resources:**
+- [awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - Curated list of MCP servers
+- [MCP Specification](https://modelcontextprotocol.io) - Official documentation
 
 ---
 
-## 14. Zero-Budget Biz Helpers
+## Computer Use & Browser Agents
 
-- [FounderPal Idea Validator](https://founderpal.ai/idea-validator)  
-  Tells you if your billion-dollar idea is more like fifty bucks.
+AI that controls your computer like a human.
 
-- [FounderPal Business Ideas Generator](https://founderpal.ai/business-ideas-generator)
-  Toss in keywords, get startup pitches back.
+### Desktop Agents
 
-Mixo — Launch pages before your coffee cools.
+| Tool | Description | Approach |
+|------|-------------|----------|
+| [Claude Computer Use](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) | Anthropic's pixel-based desktop control. 61%+ success rate on OSWorld. Works with any application. | Vision-Action Loop |
+| [OpenAI Operator](https://operator.chatgpt.com) | Browser-focused agent for consumer tasks. Web-only. | Browser automation |
+| [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Execute code from natural language. Python, JS, shell. | Code execution |
 
-[status: UNVERIFIED — 2025-09-04] [agent: API=no webhooks=no] [latency=S] [friction=med]
+### Browser Automation
 
-What it does: Generates and hosts simple landing pages from a short idea prompt. You provide a few lines; it drafts copy, layout, and signup forms. It handles mailing list signups and basic analytics automatically.
-Why it matters: Lets you validate demand or collect emails without hiring a designer or touching code. You can spin up variants and test messaging in an afternoon.
-Free-tier ceiling: 1 landing page with basic analytics.
-Agent-readiness: No API or webhooks; treat as manual step in validation funnel.
-How to use (Recipe):
-1. Sign up and describe your idea in 2–3 sentences.
-2. Pick a style; Mixo fills in copy, images, and a signup form.
-3. Publish and share the link to start collecting emails.
-Where it breaks: Design output is generic, there's no code export, and customization is limited.
-Alternatives: Durable, Typedream.
-Keep / Skip: Keep for quick validation; skip if you need integrations or bespoke design.
+| Tool | Description | Stars |
+|------|-------------|-------|
+| [Browser-Use](https://github.com/browser-use/browser-use) | DOM-to-LLM framework. 89% on WebVoyager benchmark. | 63k+ |
+| [Skyvern](https://github.com/Skyvern-AI/skyvern) | Computer vision + LLM for browser workflows. | 13k+ |
+| [Playwright MCP](https://github.com/anthropics/mcp-playwright) | Anthropic's official browser control via MCP. | - |
+| [AgentQL](https://agentql.com) | Natural language selectors for web scraping. | - |
 
 ---
 
-## 15. Free LLM Hangouts
+## LLM Providers & Playgrounds
 
-- [Lmarena.ai](https://lmarena.ai)  
-  Pit language models against each other like it's a nerdy fight club.
+### API Providers
 
-- [OpenRouter](https://openrouter.ai)  
-  One API to try many LLMs without selling your soul.
+| Provider | Models | Notes |
+|----------|--------|-------|
+| [Anthropic](https://anthropic.com) | Claude 3.5, Opus 4.5 | Best for coding & agents. Computer use capability. |
+| [OpenAI](https://openai.com) | GPT-4o, o1, o3 | Largest ecosystem. Reasoning models. |
+| [Google AI](https://ai.google.dev) | Gemini 2.0, 2.5 | 1M+ context window. Multimodal. |
+| [Mistral](https://mistral.ai) | Mistral Large, Codestral | European, open-weight options. |
+| [Groq](https://groq.com) | LLaMA, Mixtral | Fastest inference. Custom LPU chips. |
+| [Together AI](https://together.ai) | Open models | Cheapest for open-source models. |
 
----
+### Playgrounds & Routers
 
-## 16. Under-the-Radar Agentic Tools
-
-### Orchestration and Multi-Agent Frameworks
-- [AutoGen](https://github.com/microsoft/autogen) — Microsoft's multimodal agent orchestration toolkit.
-- [CrewAI](https://github.com/joaomdmoura/crewai) — Assigns specialized AI roles and keeps them in sync.
-- [Agents](https://github.com/aiwaves-cn/agents) — Aiwaves' toolkit for multi-agent experiments gone wild.
-- [AgentVerse](https://github.com/OpenBMB/AgentVerse) — Collaboration playground for swarms of conversational bots.
-- [AgentForge](https://github.com/DataBassGit/AgentForge) — Low-code workshop for crafting custom autonomous workers.
-- [dotagent](https://github.com/dot-agent/dotagent) — Minimal agent framework with dotfile vibes.
-- [FastAgency](https://fastagency.ai/latest/) — Template-based framework for shipping agents fast.
-- [AI Legion](https://github.com/eumemic/ai-legion) — Crowdsources open-source agents into digital armies.
-
-### Autonomous Goal-Seeking Agents
-- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Autonomous GPT worker that writes plans then executes.
-- [AgentGPT](https://agentgpt.reworkd.ai/) — Spawn goal-seeking GPTs in your browser sandbox.
-- [BabyAGI](https://github.com/yoheinakajima/babyagi) — Tiny agent that loops tasks like a toddler with coffee.
-- [BabyBeeAGI](https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi/) — Adds swarm smarts to BabyAGI's todo list.
-- [BabyCatAGI](https://replit.com/@YoheiNakajima/BabyCatAGI) — Feline-themed agent that chases goals nine times.
-- [BabyDeerAGI](https://twitter.com/yoheinakajima/status/1666313838868992001) — Clumsy but determined task runner for experiments.
-- [BabyElfAGI](https://twitter.com/yoheinakajima/status/1678443482866933760) — Holiday helper that scripts while you nap.
-- [BabyCommandAGI](https://github.com/saten-private/BabyCommandAGI) — Shell-loving baby agent that sends terminal commands.
-- [BabyFoxAGI](https://github.com/yoheinakajima/babyagi/tree/main/classic/babyfoxagi) — Sneaky task agent that pivots fast.
-- [evo.ninja](https://evo.ninja/) — Evolutionary agent that mutates its own prompts.
-- [CAMEL](https://github.com/camel-ai/camel) — Role-playing agents that chat themselves into solutions.
-
-### Code, Repos, and DevOps Automation
-- [Automata](https://github.com/emrgnt-cmplxty/automata) — LLM coder that roams your repo fixing TODOs.
-- [AutoPR](https://github.com/irgolic/AutoPR) — Generates pull requests while you refill coffee.
-- [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) — Tencent's coder bot that patches Java faster.
-- [Continue](https://continue.dev/) — VS Code plugin that completes code like a coworker.
-- [Bloop](https://bloop.ai/) — Code search that whispers answers from repos.
-- [DevGPT](https://github.com/jina-ai/dev-gpt) — Jina's agent that scaffolds microservices on demand.
-- [Devon](https://github.com/entropy-research/Devon) — Research partner that reads docs so you don't.
-- [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — Automates deployments while ops sleeps.
-- [bumpgen](https://github.com/xeol-io/bumpgen) — Generates commit bumps without forgetting semver.
-
-### Browser/RPA and Desktop
-- [Devika](https://github.com/stitionai/devika) — Browser agent that navigates like a patient intern.
-- [AgentPilot](https://github.com/jbexta/AgentPilot) — Desktop cockpit for launching and chatting with agents.
-- [BeeBot](https://github.com/AutoPackAI/beebot) — Swarm-friendly automation that buzzes through forms.
-- [English Compiler](https://github.com/uilicious/english-compiler) — Turns plain English into scripts that actually run.
-- [BambooAI](https://github.com/pgalko/BambooAI) — Scrapes websites politely then summarizes findings.
-
-### Data and Document Agents
-- [Adala](https://github.com/HumanSignal/Adala) — Turns labeling chores into obedient robot tasks.
-- [Databerry](https://www.databerry.ai/) — No-code builder for LLM-powered data agents.
-- [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper) — Turns raw datasets into academic PDFs.
-
-### Domain-Specific Agents
-- [Agent4Rec](https://github.com/LehengTHU/Agent4Rec) — Simulates movie fans so recommender models get smart.
-- [ChemCrow](https://github.com/ur-whitelab/chemcrow-public) — Lab assistant agent that drafts chemistry workflows.
-- [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot) — Hires interns before HR wakes up.
-- [Cal.ai](https://cal.ai) — Calendar assistant that books meetings before you reply.
-- [Friday](https://github.com/amirrezasalimi/friday/) — AI sidekick that schedules, emails, and nags gently.
-- [GeniA](https://github.com/genia-dev/GeniA) — Spanish-friendly agent builder with guardrails.
-
-### Experiments, Demos, and Playgrounds
-- [ChatArena](https://www.chatarena.org/) — Battle royale for dialogue models in the browser.
-- [ChatDev](https://github.com/OpenBMB/ChatDev) — Pretend dev team that scaffolds software via chat.
-- [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Records demos of agents without screen jitters.
-- [AIlice](https://github.com/myshell-ai/AIlice) — Anime-styled chatbot that actually codes on command.
-- [Clippy](https://github.com/ennucore/clippy/) — Yes, that Clippy—now with GPT-4 snark.
-
-### Runtimes and Integrations
-- [Eidolon](https://eidolonai.com/) — Serverless runtime for running ephemeral agents.
-- [BondAI](https://bondai.dev/) — Hooks AI agents into microservices with minimal glue.
-
-### Observability and Operations
-- [Blinky](https://github.com/seahyinghang8/blinky) — CLI ghost that haunts logs for anomalies.
+| Tool | Description |
+|------|-------------|
+| [OpenRouter](https://openrouter.ai) | One API for 100+ models. Pay per token. |
+| [LMArena](https://lmarena.ai) | Blind comparison arena. Community rankings. |
+| [Poe](https://poe.com) | Multi-model chat. Create and share bots. |
+| [Google AI Studio](https://aistudio.google.com) | Free Gemini playground with app builder. |
 
 ---
 
-## 17. Prompt Marketplaces & Libraries
+## Automation & Workflow
 
-- [FlowGPT](https://flowgpt.com)
-  Crowdsourced prompts rated and refined by the community.
+### No-Code Automation
 
-- [PromptBase](https://promptbase.com)
-  Buy and sell prompts; browse by model or use case.
+| Tool | Description |
+|------|-------------|
+| [Zapier](https://zapier.com) | Connect 5000+ apps. AI actions for smart automation. |
+| [Make](https://make.com) | Visual automation builder. More complex workflows than Zapier. |
+| [n8n](https://n8n.io) | Self-hosted workflow automation. Open source. |
+| [Bardeen](https://bardeen.ai) | Browser automation with AI. Scraping, form filling. |
 
----
+### AI-Native Automation
 
-## 18. Community-Sourced Agent Frameworks
-
-### General-Purpose Frameworks
-- [SuperAGI](https://superagi.com)
-  Open-source framework for building and deploying autonomous agents.
-- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
-  Official SDK to build tool-using, multi-step agents on OpenAI's stack.
-- [Strands Agents](https://strandsagents.com)
-  Model-agnostic agent SDK with OpenTelemetry tracing and Bedrock/Anthropic/OpenAI via LiteLLM.
-
-### Graph/State-Oriented
-- [LangGraph](https://www.langchain.com/langgraph)
-  Graph-based agent framework with stateful workflows, branching, and human-in-the-loop.
-
-### Minimal and Type-Safe
-- [Smolagents](https://huggingface.co/docs/smolagents/en/index)
-  Minimal, code-executing agents from Hugging Face for quick automations.
-- [Pydantic AI](https://ai.pydantic.dev/)
-  Type-safe Python agents with strict input/output validation and great DX.
-
-### Retrieval/Data-Centric
-- [LlamaIndex Agents](https://www.llamaindex.ai/)
-  Retrieval-centric agents that blend data indexing with tool use.
-
-### Enterprise and .NET
-- [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
-  .NET-first orchestration of AI skills and plans for enterprise apps.
-
-### OS and Device Control
-- [OpenHands](https://github.com/AllHandsAI/OpenHands)
-  Operates your computer via natural language with a safety review loop.
+| Tool | Description |
+|------|-------------|
+| [Relevance AI](https://relevanceai.com) | Build AI agents without code. Tool creation + deployment. |
+| [Lindy](https://lindy.ai) | Personal AI assistants for recurring tasks. |
+| [Dust](https://dust.tt) | Build AI assistants with your company data. |
 
 ---
 
-## 19. Content Creators’ Must-Haves
+## AI for Content Creation
 
-- BlinkLabs — https://blinklabs.ai  
-  AI-powered content generation studio—think scripts, visuals, and edits all in one.
+### Writing & Research
 
-- GummySearch — https://gummysearch.com  
-  Scans Reddit communities for recurring “pain point” phrases and turns them into lists of content ideas or product hypotheses.  
-  Why it matters: SaaS founders and creators swear by it as the best “subreddit listening” tool to uncover what your audience really struggles with.  
+| Tool | Description |
+|------|-------------|
+| [Notion AI](https://notion.so) | Writing assistant built into Notion. |
+| [Jasper](https://jasper.ai) | Marketing copy, blog posts, ads. |
+| [Copy.ai](https://copy.ai) | Sales and marketing content. |
+| [Jenni](https://jenni.ai) | Academic writing assistant with citations. |
+| [Perplexity](https://perplexity.ai) | AI search engine with citations. Research assistant. |
+
+### Design & Visual
+
+| Tool | Description |
+|------|-------------|
+| [Midjourney](https://midjourney.com) | Best image generation quality. Discord-based. |
+| [DALL-E 3](https://openai.com/dall-e-3) | OpenAI's image gen. Built into ChatGPT. |
+| [Ideogram](https://ideogram.ai) | Best text rendering in images. |
+| [Kittl](https://kittl.com) | AI-powered design tool for marketing materials. |
+| [Canva AI](https://canva.com) | Magic Design, background removal, text-to-image. |
+
+### Audio & Music
+
+| Tool | Description |
+|------|-------------|
+| [Suno](https://suno.ai) | Text-to-music. Full songs with vocals. |
+| [Udio](https://udio.com) | High-quality music generation. |
+| [ElevenLabs](https://elevenlabs.io) | Best voice cloning and TTS. |
+| [Descript](https://descript.com) | Audio/video editing via transcript. Overdub for voice. |
+
+### Video
+
+| Tool | Description |
+|------|-------------|
+| [Runway](https://runway.ml) | Gen-3 video generation. Hollywood-quality. |
+| [Pika](https://pika.art) | Text and image to video. |
+| [HeyGen](https://heygen.com) | AI avatars and video translation. |
+| [OpusClip](https://opus.pro) | Long video to viral short clips. |
+| [Captions](https://captions.ai) | Auto-edit, caption, and enhance videos. |
 
 ---
 
-## Delta Log
+## Data & Analytics
 
-2025-09-04 — Added: 1 tool; Verified: none; Removed: none; Notable combo: none
-2025-09-04 — Added: 50 tools; Verified: none; Removed: none; Notable combo: none
-2025-09-04 — Added: 2 tools; Verified: aider, open-interpreter; Removed: none; Notable combo: none
-2025-09-04 — Added: 4 tools; Verified: none; Removed: none; Notable combo: none
-2025-09-04 — Added: 4 tools, 2 categories; Verified: none; Removed: none; Notable combo: none
+| Tool | Description |
+|------|-------------|
+| [Julius](https://julius.ai) | Chat with your data. Analysis, visualization, insights. |
+| [Obviously AI](https://obviously.ai) | No-code ML predictions. |
+| [Hex](https://hex.tech) | Collaborative data workspace with AI. |
+| [Akkio](https://akkio.com) | Predictive AI for business users. |
 
+---
+
+## Chatbots & Conversational AI
+
+| Tool | Description |
+|------|-------------|
+| [Voiceflow](https://voiceflow.com) | Build conversation agents visually. |
+| [Botpress](https://botpress.com) | Open-source chatbot platform. |
+| [Chatbase](https://chatbase.co) | Train chatbots on your docs. |
+| [Flowise](https://flowiseai.com) | Drag-and-drop LangChain UI. |
+| [Dify](https://dify.ai) | LLM app development platform. Open source. |
+
+---
+
+## Business & Productivity
+
+| Tool | Description |
+|------|-------------|
+| [Granola](https://granola.so) | AI notepad for meetings. Auto-transcribes and organizes. |
+| [Otter.ai](https://otter.ai) | Meeting transcription and notes. |
+| [Fireflies](https://fireflies.ai) | Meeting assistant with search across calls. |
+| [Tome](https://tome.app) | AI presentations. |
+| [Gamma](https://gamma.app) | Slides and documents from prompts. |
+| [Beautiful.ai](https://beautiful.ai) | Smart slide design. |
+
+---
+
+## Learning & Research
+
+| Tool | Description |
+|------|-------------|
+| [Consensus](https://consensus.app) | AI search engine for research papers. |
+| [Elicit](https://elicit.org) | AI research assistant. Literature review. |
+| [Explainpaper](https://explainpaper.com) | Upload papers, get explanations. |
+| [NotebookLM](https://notebooklm.google) | Google's research notebook. Upload sources, chat with them. |
+| [Scholarcy](https://scholarcy.com) | Summarize academic articles. |
+
+---
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+**Criteria for inclusion:**
+- Actively maintained (updated in last 6 months)
+- Proven value (personal testing or community vouching with proof)
+- Clear use case and differentiation
+
+---
+
+## Changelog
+
+- **2026-01** — Major restructure: Professional categories, added AI Coding Assistants (Claude Code, Windsurf, Devin), AI App Builders (v0, Lovable, Replit Agent), MCP ecosystem, Computer Use agents, updated Agent Frameworks for 2026 landscape
+- **2025-09** — Initial release
+
+---
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
