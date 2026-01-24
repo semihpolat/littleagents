@@ -115,8 +115,16 @@ Build your own AI agents.
 | [AutoGen](https://github.com/microsoft/autogen) | Microsoft's multi-agent conversations. Treats work as conversation between agents. | 40k+ |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Lightweight, tool-centric. Fast and low token consumption. Official OpenAI. | 20k+ |
 | [Claude Agent SDK](https://github.com/anthropics/claude-code/tree/main/sdk) | Build agents with Claude including computer use. Part of Claude Code. | - |
+| [beeai-framework](https://github.com/i-am-bee/beeai-framework) | Production-ready agents in **Python + TypeScript** with a pragmatic, app-oriented approach. | 500+ |
 | [Strands Agents](https://strandsagents.com) | Model-agnostic with OpenTelemetry tracing. Works with Bedrock, Anthropic, OpenAI. | 5k+ |
 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | Collaboration playground for swarms of conversational agents. | 4k+ |
+
+### Voice & Realtime Agents
+
+| Framework | Description | Stars |
+|-----------|-------------|-------|
+| [TEN Framework](https://github.com/TEN-framework/ten-framework) | Open-source framework for realtime conversational voice agents (multimodal, video, low-latency). | 500+ |
+| [LiveKit Agents](https://github.com/livekit/agents) | Framework for building realtime voice/video agents on LiveKit. | 500+ |
 
 ### Graph & State-Based
 
@@ -162,7 +170,12 @@ The open standard for connecting AI to external tools and data. Adopted by Anthr
 | Server | Description |
 |--------|-------------|
 | [Context7](https://context7.dev) | Up-to-date, version-specific documentation for LLMs. Reduces hallucinations. |
-| [Playwright MCP](https://github.com/anthropics/mcp-playwright) | Browser automation and web scraping |
+| [GitHub MCP Server](https://github.com/github/github-mcp-server) | Official GitHub MCP server for repo + issue workflows. |
+| [Notion MCP Server](https://github.com/makenotion/notion-mcp-server) | Official Notion MCP server. |
+| [Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server) | Official Firecrawl MCP server for web crawling/scraping in MCP clients. |
+| [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Playwright MCP server for browser automation. |
+| [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | Visual testing / debugging tool for MCP servers. |
+| [MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox) | MCP server for databases (e.g., BigQuery/MySQL/Redis/Elastic). |
 | [Sentry MCP](https://github.com/getsentry/sentry-mcp) | Access error logs and monitoring data |
 | [Figma MCP](https://github.com/anthropics/mcp-figma) | Access Figma designs directly |
 | [Linear MCP](https://github.com/anthropics/mcp-linear) | Project management integration |
@@ -183,6 +196,7 @@ AI that controls your computer like a human.
 | Tool | Description | Approach |
 |------|-------------|----------|
 | [Claude Computer Use](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) | Anthropic's pixel-based desktop control. 61%+ success rate on OSWorld. Works with any application. | Vision-Action Loop |
+| [Open AutoGLM](https://github.com/zai-org/Open-AutoGLM) | Open “phone-use” agent model + framework (mobile UI control). | Vision-Action Loop |
 | [OpenAI Operator](https://operator.chatgpt.com) | Browser-focused agent for consumer tasks. Web-only. | Browser automation |
 | [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Execute code from natural language. Python, JS, shell. | Code execution |
 
