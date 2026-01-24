@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of AI tools, coding assistants, agent frameworks, and productivity boosters. Updated for 2026.
+A curated list of AI tools, coding assistants, agent frameworks, and productivity boosters. Updated for 2026 (living list).
 
 > **Philosophy:** Only tools that prove their value make it here. Either personally tested or community-vouched with proof. No hype, only practical results.
 
